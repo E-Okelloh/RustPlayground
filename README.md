@@ -51,7 +51,5 @@ cargo test     # run tests
 - [ ] Advanced Type System
 - [ ] Testing & Benchmarks
 - [ ] Design Patterns
-- [ ] Performance
-- [ ] WebAssembly
 
 ---
